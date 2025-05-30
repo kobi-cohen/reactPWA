@@ -1,0 +1,44 @@
+{
+  "name": "MY MARIO",
+  "short_name": "MR-YOU",
+  "description": "SIMPLE PAGE FOR TEST",
+  "lang": "en-US",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "theme_color": "#10a37f",
+  "background_color": "#ffffff",
+  "icons": [
+    {
+      "src": "./assets/icons/M192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./assets/icons/MR512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "./assets/icons/512.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "MY APP MARIO",
+      "short_name": "MAR",
+      "description": "MY GREATE IDEA",
+      "url": "/",
+      "icons": [
+        {
+          "src": "./assets/icons/M192.png",
+          "sizes": "192x192",
+          "type": "image/png"
+        }
+      ]
+    }
+  ]
+}
