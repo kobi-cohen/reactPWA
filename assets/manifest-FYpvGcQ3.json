@@ -3,11 +3,11 @@
   "short_name": "MR-YOU",
   "description": "SIMPLE PAGE FOR TEST",
   "lang": "en-US",
-  "start_url": "../",
-  "scope": "../",
+  "start_url": "/",
+  "scope": "/",
   "display": "standalone",
-  "theme_color": "white",
-  "background_color": "white",
+  "theme_color": "#10a37f",
+  "background_color": "#ffffff",
   "icons": [
     {
       "src": "./assets/icons/M192.png",
